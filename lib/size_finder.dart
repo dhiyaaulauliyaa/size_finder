@@ -1,7 +1,4 @@
+/// A simple Flutter widget to find the size of your widget.
 library size_finder;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'src/size_finder_widget.dart';
